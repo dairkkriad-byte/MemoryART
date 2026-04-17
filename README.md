@@ -6,6 +6,8 @@
 
 This project is more than a simple RAG system. By simulating human-like memory processing, it transforms unstructured doctor–patient dialogues into structured, scenario-based memories with **temporal awareness**, **motivation awareness**, and **event-level features**.
 
+Our dataset can be found at <https://github.com/HebinHu/MediLongChat>
+
 ---
 
 ## 🏛️ Core Architecture: A Triadic Memory Storage System
